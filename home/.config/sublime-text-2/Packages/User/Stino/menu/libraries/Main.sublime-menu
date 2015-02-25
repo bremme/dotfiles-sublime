@@ -1,0 +1,304 @@
+[
+    {
+        "caption": "Arduino", 
+        "children": [
+            {
+                "caption": "Import Library", 
+                "children": [
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/EEPROM"
+                        }, 
+                        "caption": "EEPROM (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/Esplora"
+                        }, 
+                        "caption": "Esplora (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/Ethernet"
+                        }, 
+                        "caption": "Ethernet (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/Firmata"
+                        }, 
+                        "caption": "Firmata (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/GSM"
+                        }, 
+                        "caption": "GSM (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/LiquidCrystal"
+                        }, 
+                        "caption": "LiquidCrystal (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/Robot_Control"
+                        }, 
+                        "caption": "Robot_Control (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/Robot_Motor"
+                        }, 
+                        "caption": "Robot_Motor (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/SD"
+                        }, 
+                        "caption": "SD (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/Servo"
+                        }, 
+                        "caption": "Servo (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/SoftwareSerial"
+                        }, 
+                        "caption": "SoftwareSerial (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/SPI"
+                        }, 
+                        "caption": "SPI (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/Stepper"
+                        }, 
+                        "caption": "Stepper (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/TFT"
+                        }, 
+                        "caption": "TFT (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/WiFi"
+                        }, 
+                        "caption": "WiFi (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/usr/share/arduino/libraries/Wire"
+                        }, 
+                        "caption": "Wire (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/Adafruit_NeoPixel"
+                        }, 
+                        "caption": "Adafruit_NeoPixel (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/ArduinoSerialCommand"
+                        }, 
+                        "caption": "ArduinoSerialCommand (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/CmdMessenger"
+                        }, 
+                        "caption": "CmdMessenger (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/DallasTemperature"
+                        }, 
+                        "caption": "DallasTemperature (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/EmonLib"
+                        }, 
+                        "caption": "EmonLib (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/ENC28J60"
+                        }, 
+                        "caption": "ENC28J60 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/ENC28J60Uip"
+                        }, 
+                        "caption": "ENC28J60Uip (avr)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/InterruptChain"
+                        }, 
+                        "caption": "InterruptChain (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/Manchester"
+                        }, 
+                        "caption": "Manchester (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/MemoryFree"
+                        }, 
+                        "caption": "MemoryFree (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/NanodeUIP"
+                        }, 
+                        "caption": "NanodeUIP (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/NanodeUNIO"
+                        }, 
+                        "caption": "NanodeUNIO (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/NewPing"
+                        }, 
+                        "caption": "NewPing (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/NewRemoteSwitch"
+                        }, 
+                        "caption": "NewRemoteSwitch (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/OneWire"
+                        }, 
+                        "caption": "OneWire (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/RadioHead"
+                        }, 
+                        "caption": "RadioHead (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/RCSwitch"
+                        }, 
+                        "caption": "RCSwitch (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/RemoteSensor"
+                        }, 
+                        "caption": "RemoteSensor (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/RemoteSwitch"
+                        }, 
+                        "caption": "RemoteSwitch (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/RF24"
+                        }, 
+                        "caption": "RF24 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/TimerOne"
+                        }, 
+                        "caption": "TimerOne (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/uHTTP"
+                        }, 
+                        "caption": "uHTTP (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/uHTTPUip"
+                        }, 
+                        "caption": "uHTTPUip (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/home/bremme/Data/Development/arduino/sketches/libraries/WirelessDoorBell"
+                        }, 
+                        "caption": "WirelessDoorBell (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "caption": "-"
+                    }
+                ], 
+                "id": "import_library"
+            }
+        ], 
+        "id": "arduino", 
+        "mnemonic": "A"
+    }
+]

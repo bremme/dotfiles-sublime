@@ -1,0 +1,386 @@
+[
+    {
+        "caption": "Arduino", 
+        "children": [
+            {
+                "caption": "Sketchbook", 
+                "children": [
+                    {
+                        "caption": "arduino-http-request", 
+                        "children": [
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/arduino-http-request/getStaticIP"
+                                }, 
+                                "caption": "getStaticIP", 
+                                "command": "open_sketch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/automatic_filling_lcd"
+                        }, 
+                        "caption": "automatic_filling_lcd", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "caption": "ds18B20Temp", 
+                        "children": [
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/ds18B20Temp/test2"
+                                }, 
+                                "caption": "test2", 
+                                "command": "open_sketch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/eclipse_test"
+                        }, 
+                        "caption": "eclipse_test", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/FysicRemote"
+                        }, 
+                        "caption": "FysicRemote", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "caption": "jesse", 
+                        "children": [
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/jesse/neopixel_2_ino"
+                                }, 
+                                "caption": "neopixel_2_ino", 
+                                "command": "open_sketch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/lcdScroll_ino"
+                        }, 
+                        "caption": "lcdScroll_ino", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "caption": "magneticDoorSwitch", 
+                        "children": [
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/magneticDoorSwitch/magneticDoorSwitch_ino"
+                                }, 
+                                "caption": "magneticDoorSwitch_ino", 
+                                "command": "open_sketch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/measure_mains"
+                        }, 
+                        "caption": "measure_mains", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/numberConversion"
+                        }, 
+                        "caption": "numberConversion", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/serial_calculator"
+                        }, 
+                        "caption": "serial_calculator", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/serial_echo"
+                        }, 
+                        "caption": "serial_echo", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "caption": "servo-test", 
+                        "children": [
+                            {
+                                "caption": "servo-test", 
+                                "children": [
+                                    {
+                                        "args": {
+                                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/servo-test/servo-test/servo_test_ino"
+                                        }, 
+                                        "caption": "servo_test_ino", 
+                                        "command": "open_sketch"
+                                    }
+                                ]
+                            }, 
+                            {
+                                "caption": "servo-test-2", 
+                                "children": [
+                                    {
+                                        "args": {
+                                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/servo-test/servo-test-2/servo_test_2_ino"
+                                        }, 
+                                        "caption": "servo_test_2_ino", 
+                                        "command": "open_sketch"
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/servo_test_3"
+                        }, 
+                        "caption": "servo_test_3", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/servo_test_4"
+                        }, 
+                        "caption": "servo_test_4", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "caption": "ShowReceivedCodePlusPrintLCD", 
+                        "children": [
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/ShowReceivedCodePlusPrintLCD/ShowReceivedCodePlusPrintLCD_2_ino"
+                                }, 
+                                "caption": "ShowReceivedCodePlusPrintLCD_2_ino", 
+                                "command": "open_sketch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "test", 
+                        "children": [
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/decodeString"
+                                }, 
+                                "caption": "decodeString", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/EchoServer"
+                                }, 
+                                "caption": "EchoServer", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "caption": "ENC28J60Uip", 
+                                "children": [
+                                    {
+                                        "args": {
+                                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/ENC28J60Uip/ChatServer"
+                                        }, 
+                                        "caption": "ChatServer", 
+                                        "command": "open_sketch"
+                                    }, 
+                                    {
+                                        "args": {
+                                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/ENC28J60Uip/EchoServer"
+                                        }, 
+                                        "caption": "EchoServer", 
+                                        "command": "open_sketch"
+                                    }, 
+                                    {
+                                        "args": {
+                                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/ENC28J60Uip/JSONApi"
+                                        }, 
+                                        "caption": "JSONApi", 
+                                        "command": "open_sketch"
+                                    }, 
+                                    {
+                                        "args": {
+                                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/ENC28J60Uip/TcpServer"
+                                        }, 
+                                        "caption": "TcpServer", 
+                                        "command": "open_sketch"
+                                    }, 
+                                    {
+                                        "args": {
+                                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/ENC28J60Uip/WebServer"
+                                        }, 
+                                        "caption": "WebServer", 
+                                        "command": "open_sketch"
+                                    }
+                                ]
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/pings"
+                                }, 
+                                "caption": "pings", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/simple_client_server"
+                                }, 
+                                "caption": "simple_client_server", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/sketch_sep17b"
+                                }, 
+                                "caption": "sketch_sep17b", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/test_http_response"
+                                }, 
+                                "caption": "test_http_response", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/uHTTP"
+                                }, 
+                                "caption": "uHTTP", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/uHTTP_client_server"
+                                }, 
+                                "caption": "uHTTP_client_server", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/uHTTP_makeRequest"
+                                }, 
+                                "caption": "uHTTP_makeRequest", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/uHTTP_RemoteTransmitter"
+                                }, 
+                                "caption": "uHTTP_RemoteTransmitter", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/WebServer"
+                                }, 
+                                "caption": "WebServer", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/webserver_433"
+                                }, 
+                                "caption": "webserver_433", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test/webserver_433_ethercard"
+                                }, 
+                                "caption": "webserver_433_ethercard", 
+                                "command": "open_sketch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/test_0"
+                        }, 
+                        "caption": "test_0", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/testSerialWrite"
+                        }, 
+                        "caption": "testSerialWrite", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/vulmachine_lcd"
+                        }, 
+                        "caption": "vulmachine_lcd", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "caption": "vulmachine_led", 
+                        "children": [
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/vulmachine_led/vulmachine_led_ino"
+                                }, 
+                                "caption": "vulmachine_led_ino", 
+                                "command": "open_sketch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "wirelessDoorBell", 
+                        "children": [
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/wirelessDoorBell/test_2"
+                                }, 
+                                "caption": "test_2", 
+                                "command": "open_sketch"
+                            }, 
+                            {
+                                "caption": "test_3", 
+                                "children": [
+                                    {
+                                        "args": {
+                                            "sketch_path": "/home/bremme/Data/Development/arduino/sketches/wirelessDoorBell/test_3/test_3"
+                                        }, 
+                                        "caption": "test_3", 
+                                        "command": "open_sketch"
+                                    }
+                                ]
+                            }, 
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/wirelessDoorBell/test_ino"
+                                }, 
+                                "caption": "test_ino", 
+                                "command": "open_sketch"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "wirelessDoorSwitch", 
+                        "children": [
+                            {
+                                "args": {
+                                    "sketch_path": "/home/bremme/Data/Development/arduino/sketches/wirelessDoorSwitch/wirelessDoorSwithcRCSwitch"
+                                }, 
+                                "caption": "wirelessDoorSwithcRCSwitch", 
+                                "command": "open_sketch"
+                            }
+                        ]
+                    }
+                ], 
+                "id": "sketchbook"
+            }
+        ], 
+        "id": "arduino", 
+        "mnemonic": "A"
+    }
+]
