@@ -1,0 +1,12 @@
+{
+	"extensions":
+	[
+		"md",
+		"mdown",
+		"txt",
+		"markdown"
+	],
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"line_numbers":true
+}

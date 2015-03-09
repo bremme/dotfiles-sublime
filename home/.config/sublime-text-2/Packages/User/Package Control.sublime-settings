@@ -5,6 +5,12 @@
 	"installed_packages":
 	[
 		"Arduino-like IDE",
+		"Dockerfile Syntax Highlighting",
+		"LiveReload",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Monokai Extended",
 		"Package Control"
 	]
 }
